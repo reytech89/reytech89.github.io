@@ -12,47 +12,44 @@ Passionate about building scalable, secure, and automated systems. Open to Cloud
 
 ## Technical Skills
 **Cloud Platforms & Infrastructure**
-
-**AWS:** EC2, ECS, EKS, Lambda, RDS, S3, CloudFormation, CloudWatch
-
-**GCP:** GKE, Compute Engine, Cloud Functions, BigQuery
-
-**Azure:** AKS, VMs, Azure Monitor
+- **AWS:** EC2, ECS, EKS, Lambda, RDS, S3, CloudFormation, CloudWatch
+- **GCP:** GKE, Compute Engine, Cloud Functions, BigQuery
+- **Azure:** AKS, VMs, Azure Monitor
 
 **Container Orchestration & Virtualization**
-Kubernetes (EKS, GKE, self-managed)
-Docker
+- Kubernetes (EKS, GKE, self-managed)
+- Docker
 
 **Infrastructure as Code**
-Terraform
-Ansible
-CloudFormation
-Azure Resource Manager (ARM)
+- Terraform
+- Ansible
+- CloudFormation
+- Azure Resource Manager (ARM)
 
 **CI/CD & Automation**
-Jenkins, GitLab CI, GitHub Actions
+- Jenkins, GitLab CI, GitHub Actions
 
 **Monitoring & Observability**
-Prometheus & Grafana
-ELK Stack (Elasticsearch, Logstash, Kibana)
-Splunk
-Dynatrace
+- Prometheus & Grafana
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- Splunk
+- Dynatrace
 
 **Programming & Scripting**
-Python, Go
-YAML, JSON
+- Python, Go
+- YAML, JSON
 
 **Core SRE Competencies**
-**Reliability:** Designed systems achieving 99.99% uptime
-**Scalability:** Architected auto-scaling solutions handling 10x traffic spikes
-**Incident Management:** Led post-mortems and implemented preventive measures
-**Capacity Planning:** Forecasted resource needs and optimized costs
-**Service Level Objectives:** Defined and maintained SLIs, SLOs, and error budgets
-**Disaster Recovery:** Implemented backup strategies and runbooks
+- **Reliability:** Designed systems achieving 99.99% uptime
+- **Scalability:** Architected auto-scaling solutions handling 10x traffic spikes
+- **Incident Management:** Led post-mortems and implemented preventive measures
+- **Capacity Planning:** Forecasted resource needs and optimized costs
+- **Service Level Objectives:** Defined and maintained SLIs, SLOs, and error budgets
+- **Disaster Recovery:** Implemented backup strategies and runbooks
 
 ## Certifications
-Amazon Web Services Cloud Practitioner 
-POST GRADUATE PROGRAM IN CLOUD COMPUTING
+- Amazon Web Services Cloud Practitioner 
+- POST GRADUATE PROGRAM IN CLOUD COMPUTING
 
 
 ## Featured Projects
