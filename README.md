@@ -12,8 +12,11 @@ Passionate about building scalable, secure, and automated systems. Open to Cloud
 
 ## Technical Skills
 **Cloud Platforms & Infrastructure**
+
 **AWS:** EC2, ECS, EKS, Lambda, RDS, S3, CloudFormation, CloudWatch
+
 **GCP:** GKE, Compute Engine, Cloud Functions, BigQuery
+
 **Azure:** AKS, VMs, Azure Monitor
 
 **Container Orchestration & Virtualization**
