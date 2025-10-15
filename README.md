@@ -1,4 +1,3 @@
-markdown
 # Welcome to My Portfolio
 
 ## About Me
