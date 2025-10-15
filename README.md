@@ -15,7 +15,9 @@ Passionate about building scalable, secure, and automated systems. Open to Cloud
 - Linux System Administration 
 
 ## Projects
-Check out my work below!
+
+### [Team Communication Solution on AWS](projects/project1.md)
+Implemented a team communication solution using Mattermost and AWS.
 
 ## Contact
 - Email: reytech89@gmail.com
